@@ -24,6 +24,8 @@ R (Result): Achieved high accuracy in exercises, improving my clarity and profes
 
 # Interview Skills
 
+<img width="421" height="97" alt="interviewSki" src="https://github.com/user-attachments/assets/5804d6cd-8735-493f-a0f8-4eba306d2aae" />
+
 Evidence
 
 I completed the Interview Skills module by answering questions on types of interviews, common questions, and effective responses. I learned strategies to present myself professionally and articulate my strengths.
@@ -36,9 +38,11 @@ T (Task): Understand and apply techniques for successful interviews.
 
 A (Action): Reviewed best practices, practiced sample questions, and reflected on personal strengths.
 
-<img width="421" height="97" alt="interviewSki" src="https://github.com/user-attachments/assets/5804d6cd-8735-493f-a0f8-4eba306d2aae" />
+
 
 # Mock Interview
+
+<img width="466" height="80" alt="mockInterv" src="https://github.com/user-attachments/assets/5ede4793-ceef-431b-b9ef-c66f791a674a" />
 
 Evidence
 
@@ -54,9 +58,9 @@ A (Action): Applied interview techniques, maintained professional demeanor, and 
 
 R (Result): Improved my confidence, articulation, and readiness for real-world interviews.
 
-<img width="466" height="80" alt="mockInterv" src="https://github.com/user-attachments/assets/5ede4793-ceef-431b-b9ef-c66f791a674a" />
-
 # Professional Networking
+
+<img width="467" height="105" alt="profNetw" src="https://github.com/user-attachments/assets/93d98bfc-fd3d-4e47-8fea-11530ead3f9a" />
 
 Evidence
 
@@ -72,9 +76,9 @@ A (Action): Practiced connecting with professionals online and in-person, and re
 
 R (Result): Expanded understanding of networking benefits and gained confidence in initiating professional contacts.
 
-<img width="467" height="105" alt="profNetw" src="https://github.com/user-attachments/assets/93d98bfc-fd3d-4e47-8fea-11530ead3f9a" />
-
 # Workplace Etiquette
+
+<img width="548" height="96" alt="workplaceEtiq" src="https://github.com/user-attachments/assets/afe935bc-faf6-45b5-a90b-5c1ac6c1e3d1" />
 
 Evidence
 
@@ -90,4 +94,3 @@ A (Action): Reviewed etiquette guidelines and applied them in hypothetical workp
 
 R (Result): Enhanced my awareness of professional conduct, contributing to a positive and productive work environment.
 
-<img width="548" height="96" alt="workplaceEtiq" src="https://github.com/user-attachments/assets/afe935bc-faf6-45b5-a90b-5c1ac6c1e3d1" />
