@@ -4,8 +4,6 @@ October 2025
 
 # Joshua-Twigg-Portfolio-Of-Evidence
 ---
-![gdaaaaaa](https://github.com/user-attachments/assets/d3437ce4-791e-4c19-8608-987a5f266049)
-
 # Business Communication
 
 <img width="508" height="107" alt="busComm" src="https://github.com/user-attachments/assets/decf4e15-809d-4557-8456-e4aed466ea28" />
