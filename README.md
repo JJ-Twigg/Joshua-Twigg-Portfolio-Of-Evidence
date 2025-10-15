@@ -1,8 +1,6 @@
-October 2025
-
 # Project Presentation 3
 
-# Joshua-Twigg-Portfolio-Of-Evidence
+# Joshua-Twigg-Portfolio-Of-Evidence - October 2025
 ---
 # Business Communication
 
