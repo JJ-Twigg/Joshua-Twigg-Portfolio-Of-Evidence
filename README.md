@@ -80,7 +80,7 @@ R (Result): Expanded understanding of networking benefits and gained confidence 
 
 ### Evidence
 
-I completed the Workplace Etiquette module by learning about professional behavior, time management, communication norms, and conflict resolution. I applied this knowledge in scenario-based exercises.
+I completed the Workplace Etiquette module by participating in exercises and quizzes focused on professional behavior, time management, communication, and confidentiality in the workplace. The module included scenarios such as dealign with offensive emails, meeting etiquette, managing confidential information, responsible use of personal devices, and requesting early leave through the necessary channels. Through these activities, I demonstrated my understanding of respectful and professional conduct in a work environment.
 
 ### Reflection – STAR Technique
 
@@ -88,9 +88,9 @@ S (Situation): Required to complete the Workplace Etiquette module.
 
 T (Task): Demonstrate understanding of proper workplace behavior.
 
-A (Action): Reviewed etiquette guidelines and applied them in hypothetical workplace scenarios.
+A (Action): I completed quizzes and scenario-based exercises that required applying workplace etiquette principles to real life situations. This included learning how to respond professionally to inappropriate emails, practicing punctuality for meetings, and maintaining confidentiality.
 
-R (Result): Enhanced my awareness of professional conduct, contributing to a positive and productive work environment.
+R (Result): I strengthened my ability to handle workplace situations with professionalism. As a result, I developed greater confidence in maintaining appropriate behavior, communication, and ethics in a professional setting, and contributing to a positive work environment.
 
 ---
 
