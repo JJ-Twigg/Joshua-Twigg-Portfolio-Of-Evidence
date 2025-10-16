@@ -91,9 +91,3 @@ T (Task): Demonstrate understanding of proper workplace behavior.
 A (Action): I completed quizzes and scenario-based exercises that required applying workplace etiquette principles to real life situations. This included learning how to respond professionally to inappropriate emails, practicing punctuality for meetings, and maintaining confidentiality.
 
 R (Result): I strengthened my ability to handle workplace situations with professionalism. As a result, I developed greater confidence in maintaining appropriate behavior, communication, and ethics in a professional setting, and contributing to a positive work environment.
-
----
-
-## Extra Items:
-
----
