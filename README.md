@@ -26,7 +26,7 @@ R (Result): Achieved high accuracy in exercises, improving my clarity and profes
 
 ### Evidence
 
-I successfully completed the Interview Skills module by answering questions on key interview concepts, including the purpose of job interviews, the CAR (Context, Action, Result) method, and the importance of researching a company before the interview. I also practiced structuring responses to common questions such as “Tell me about yourself” and “What is your greatest weakness?” This helped me develop an understanding of how to communicate my strengths, experiences, for a particular role in a professional manner.
+I successfully completed the Interview Skills module by answering questions on key interview concepts, including the purpose of job interviews, the CAR (Context, Action, Result) method, and the importance of researching a company before the interview. I also practiced structuring responses to common questions such as “Tell me about yourself” and “What would you say are your weaknesses?” This helped me develop an understanding of how to communicate my strengths, experiences, for a particular role in a professional manner.
 
 ### Reflection – STAR Technique
 
