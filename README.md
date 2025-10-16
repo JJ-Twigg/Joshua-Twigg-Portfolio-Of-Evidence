@@ -8,7 +8,7 @@
 
 ### Evidence
 
-I completed the Business Communication module by participating in exercises on professional email writing, report structuring, and presentation techniques. I applied these concepts through real-life examples and case studies, demonstrating my understanding of effective workplace communication.
+I completed the Business Communication module by participating in exercises on professional email writing, report structuring, and presentation techniques. I applied these concepts through the use of real-life examples and case studies, demonstrating my understanding of effective and meaningful workplace communication.
 
 ### Reflection – STAR Technique
 
@@ -26,7 +26,8 @@ R (Result): Achieved high accuracy in exercises, improving my clarity and profes
 
 ### Evidence
 
-I completed the Interview Skills module by answering questions on types of interviews, common questions, and effective responses. I learned strategies to present myself professionally and articulate my strengths.
+I completed the Interview Skills module by answering questions on types of interviews, common questions, and effective responses to these questions. I learned strategies to present myself professionally and convey my strengths and positive traits which i can 
+contribute to the workplace.
 
 ### Reflection – STAR Technique
 
@@ -44,7 +45,7 @@ R (Result): I gained greater confidence in interview settings, improved my abili
 
 ### Evidence
 
-I participated in a mock interview simulation, responding to standard interview questions while receiving feedback on my performance. This activity tested my communication, professionalism, and preparedness.
+I participated in a mock interview simulations, responding to standard interview questions while receiving feedback on my performance. This activity tested my communication, professionalism, and preparedness.
 
 ### Reflection – STAR Technique
 
