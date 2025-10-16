@@ -36,7 +36,7 @@ T (Task): Understand and apply techniques for successful interviews.
 
 A (Action): Reviewed best practices, practiced sample questions, and reflected on personal strengths.
 
-
+R (Result): I gained greater confidence in interview settings, improved my ability to communicate my skills effectively, and developed a stronger understanding of how to make a positive impression on potential employers.
 
 # Mock Interview
 
