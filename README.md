@@ -62,7 +62,7 @@ R (Result): Improved my confidence, articulation, and readiness for real-world i
 
 ### Evidence
 
-I completed the Professional Networking module by identifying networking strategies, building LinkedIn connections, and practicing elevator pitches. I explored the value of professional relationships for career growth.
+I completed the Professional Networking module by identifying networking strategies, building LinkedIn connections, and practicing elevator pitches. I explored and researched the value professional relationships and the effect it has on career growth.
 
 ### Reflection – STAR Technique
 
@@ -70,9 +70,9 @@ S (Situation): Required to complete the Professional Networking module.
 
 T (Task): Develop effective networking skills and strategies.
 
-A (Action): Practiced connecting with professionals online and in-person, and refined my personal pitch.
+A (Action): I actively engaged in both online and in-person networking opportunities, I created my personal elevator pitch, and practiced initiating conversations with employers and IT professionals.
 
-R (Result): Expanded understanding of networking benefits and gained confidence in initiating professional contacts.
+R (Result): I gained confidence in establishing work opportunity contacts, deepened my understanding of effective networking strategies, and enhanced my ability to build meaningful relationships which could help my career.
 
 # Workplace Etiquette
 
