@@ -18,7 +18,7 @@ T (Task): Demonstrate knowledge of professional communication methods.
 
 A (Action): Practiced writing emails, structuring reports, and preparing presentations.
 
-R (Result): Achieved high accuracy in exercises, improving my clarity and professionalism in communication.
+R (Result): I Achieved high accuracy in the exercises, improving my clarity and professionalism in communication. I learned the techniques which are critical to communicating in a business environment
 
 # Interview Skills
 
