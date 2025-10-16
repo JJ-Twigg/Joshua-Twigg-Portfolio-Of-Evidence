@@ -44,7 +44,7 @@ R (Result): I gained greater confidence in interview settings, improved my abili
 
 ### Evidence
 
-I participated in a mock interview simulations, responding to standard interview questions while receiving feedback on my performance. This activity tested my communication, professionalism, and preparedness.
+I participated in a mock interview simulation which i personally recorded. In the Mock interview i responded to a list of typical interview questions, to practice what i would be like in a real interview. This activity tested my communication, professionalism, and preparedness. It also tested my speaking skills and general confidence, and also how to market myself.
 
 ### Reflection – STAR Technique
 
@@ -54,7 +54,7 @@ T (Task): Perform effectively in a simulated professional interview setting.
 
 A (Action): Applied interview techniques, maintained professional demeanor, and incorporated feedback.
 
-R (Result): Improved my confidence, articulation, and readiness for real-world interviews.
+R (Result): Improved my confidence, articulation and preparedeness. It also prepared me for real world job interviews and taught me how to market my skills to employers.
 
 # Professional Networking
 
