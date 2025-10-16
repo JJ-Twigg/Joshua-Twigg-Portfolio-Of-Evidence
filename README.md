@@ -26,8 +26,7 @@ R (Result): Achieved high accuracy in exercises, improving my clarity and profes
 
 ### Evidence
 
-I completed the Interview Skills module by answering questions on types of interviews, common questions, and effective responses to these questions. I learned strategies to present myself professionally and convey my strengths and positive traits which i can 
-contribute to the workplace.
+I successfully completed the Interview Skills module by answering questions on key interview concepts, including the purpose of job interviews, the CAR (Context, Action, Result) method, and the importance of researching a company before the interview. I also practiced structuring responses to common questions such as “Tell me about yourself” and “What is your greatest weakness?” This helped me develop an understanding of how to communicate my strengths, experiences, for a particular role in a professional manner.
 
 ### Reflection – STAR Technique
 
@@ -35,7 +34,7 @@ S (Situation): Required to complete the Interview Skills module.
 
 T (Task): Understand and apply techniques for successful interviews.
 
-A (Action): Reviewed best practices, practiced sample questions, and reflected on personal strengths.
+A (Action): I engaged with interactive quizzes that covered essential interview concepts, including the CAR method, practiced company research, and response strategies for common interview questions. I also practiced tailoring highlighting my achievements and aligning them with the organizations goals.
 
 R (Result): I gained greater confidence in interview settings, improved my ability to communicate my skills effectively, and developed a stronger understanding of how to make a positive impression on potential employers.
 
